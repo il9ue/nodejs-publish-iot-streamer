@@ -1,0 +1,19 @@
+{
+    "name": "lumismart-restws",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "3.4.0",
+        "jade": "*",
+        "orm": "2.1.2",
+        "mysql": "2.0.0",
+        "websocket": "1.0.8",
+        "axon": "1.0.0",
+        "request": "2.31.0",
+        "socket.io": "0.9.16",
+        "socket.io-stream": "0.5.2"
+    }
+}
